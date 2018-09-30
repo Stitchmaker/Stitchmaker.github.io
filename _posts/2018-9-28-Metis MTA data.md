@@ -5,10 +5,14 @@ title: Metis MTA data project!
 
 ## Metis Bootcamp first project
 
-We just finished the first week of Metis Bootcamp in Seattle.  Our first project 
+My cohort just finished our first week at Metis Bootcamp in Seattle.  We come from various backgrounds, all wanting to learn more about data science.   
 
-# WomenTechWomenYes  
+Our first project was done in teams of four.  What a great way to get to know each other.  As with most teams, we each brought different strengths to the project.  
 
+Now let’s move into the imaginary world of a data science team from the company Toucan Analysis, Inc. which has been presented a problem to solve by the New York organization, WomenTechWomenYes.
+ 
+
+```
 Chad and Roberto -   
 
 It was great to meet with you and chat at the event where we recently met and had a nice chat. We’d love to take some next steps to see if working together is something that would make sense for both parties.   
@@ -28,16 +32,11 @@ Best,
 Karrine and Dahlia
 
 WTWY International
+```
 
 ## New Section Header
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-What will I blog about?
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 ![an image alt text]({{ site.baseurl }}/images/image1.png "an image title")
 
