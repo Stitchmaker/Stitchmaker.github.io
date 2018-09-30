@@ -50,7 +50,7 @@ url:
 baseurl: ""
 
 # Set a Theme for the blog pages
-theme: Architect
+theme: Cayman
 
 #
 # !! You don't need to change any of the configuration flags below !!
