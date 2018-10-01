@@ -1,6 +1,6 @@
---- 
-layout: post 
-title: Metis Benson MTA project 
+---
+layout: post
+title: Metis Benson MTA project
 ---
 
 ## Metis Bootcamp first project
@@ -79,7 +79,7 @@ To solve your problem we will be using several sets of data
 
 1. Determine the locations of the companies supporting the Grace Hopper Convention in NYC.  On the map below we see that all of these companies are in lower Manhattan so we will focus our analysis on this part of New York City.  We will catch people as they commute to and from these companies.   
 
-![an image alt text[515x673]({{ site.baseurl }}/images/image13.png "an image title")
+![an image alt text]({{ site.baseurl }}/images/image13.png "an image title")
 
 2. Determine the locations of the MTA Stations in NYC.  As you can see on the map below the subway stations have been superimposed on a map with the companies.  We continue the analysis to determine the stations on which WTWY should focus.   
 
