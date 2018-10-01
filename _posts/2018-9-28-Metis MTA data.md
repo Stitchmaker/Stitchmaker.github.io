@@ -72,6 +72,8 @@ To solve your problem we will be using several sets of data
 2. The Grace Hopper Convention has a similar mission to WYTY.  To this end, we will focus on people working at the companies who are strong supporters of the Grace Hopper Convention.  
 3. Geographic locations of both the MTA stations and these companies.   
 
+img src=“{{ site.baseurl }}/images/image4.png” alt=“HIRTrafficCommuter” width=“700” align=“center”/>
+
 ### Methodology:  
 
 1. Determine the locations of the companies supporting the Grace Hopper Convention in NYC.  On the map below we see that all of these companies are in lower Manhattan so focussed our analysis on this part of New York City.  The goal is to approach people as they commute to and from these companies.   
