@@ -136,6 +136,17 @@ Ebay
 Google   
 PWC   
 
+Scoring for each station
+
+| Station       | volume |# companies | Score  |
+| ------------- |-------:|:----------:| ------:|
+| Harold Square | 16,186 | 4          | 64,744 |
+| Times Square  | 14,745 | 4          | 58,982 |
+| Bryant Park   |  5,473 | 9          | 49,225 |
+| Penn Station  | 11,769 | 4          | 47,078 |
+| Rockefeller   | 7,446  | 5          | 37,230 |
+| Union Square  | 15,728 | 2          | 31,456 |
+
 Station Traffic for each of the 6 identified stations
 
 ![an image alt text]({{ site.baseurl }}/images/image5.png "an image title")
