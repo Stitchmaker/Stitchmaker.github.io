@@ -1,15 +1,13 @@
 --- 
 layout: post 
-title: Metis Benson MTA project 
+title: Metis Bootcamp first project 
 --- 
 
-## Metis Bootcamp first project
+My cohort just finished our first week at Metis Bootcamp in Seattle.  We come from various backgrounds, all wanting to learn more about data science.  Excited to be working with this great group of people.
 
-My cohort just finished our first week at Metis Bootcamp in Seattle.  We come from various backgrounds, all wanting to learn more about data science.   
+Our first project was done in teams of four.  What a great way to get to know each other.  As with most teams, we each brought different strengths to the project.  It was fast paced work but very rewarding.
 
-Our first project was done in teams of four.  What a great way to get to know each other.  As with most teams, we each brought different strengths to the project.  
-
-Now let’s move into the imaginary world of a data science team from the company Toucan Analysis, Inc. which has been presented a problem to solve by the New York organization, WomenTechWomenYes.
+Let’s now move into the imaginary world of a data science team from the company Toucan Analysis, Inc. which has been presented a problem to solve by the New York organization, WomenTechWomenYes.
  
 
 ```
@@ -52,8 +50,7 @@ Karrine and Dahlia
 WTWY International
 ```
 
-## Optimization of MTA Stations to Target
-## WomenTechWomenYes Gala
+## Optimization of MTA Stations to Target WomenTechWomenYes Gala
 
 Karrine & Dahlia, thank you for allowing Toucan Analysis, Inc. to assist WTWY with their yearly gala.  We believe the analysis we have done will assist you in placing your volunteer teams at the best MTA stations in New York City to reach the right people for your gala.   
 
