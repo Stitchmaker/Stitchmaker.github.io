@@ -74,19 +74,13 @@ To solve your problem we will be using several sets of data
 
 ### Methodology:  
 
-1. Determine the locations of the companies supporting the Grace Hopper Convention in NYC.  On the map below we see that all of these companies are in lower Manhattan so we will focus our analysis on this part of New York City.  We will catch people as they commute to and from these companies.   
-
+1. Determine the locations of the companies supporting the Grace Hopper Convention in NYC.  On the map below we see that all of these companies are in lower Manhattan so focussed our analysis on this part of New York City.  The goal is to approach people as they commute to and from these companies.   
 ![an image alt text]({{ site.baseurl }}/images/image13.png "an image title")
-
-2. Determine the locations of the MTA Stations in NYC.  As you can see on the map below the subway stations have been superimposed on a map with the companies.  We continue the analysis to determine the stations on which WTWY should focus.   
-
+2. Determine the locations of the MTA Stations in NYC.  As you can see on the map below the subway stations have been shown by red dots and superimposed on the map with the companies.  We then continued the analysis to determine the stations where WTWY should place their focus.   
 ![an image alt text]({{ site.baseurl }}/images/image4.png "an image title")
-
-3. We turned our focus to the stations near the companies with people we wish to target.  We will catch them as the enter or leave the MTA stations so focus on stations within ½ mile (approximately a 10 minute walk) from the companies.  On the map below you can see this more limited set of stations.  To help in our analysis, the red dots were scaled so the stations with the higher volumes have larger dots.   
-
+3. We turned our focus to the stations near the companies with people you wish to target.  We will catch them as the enter or leave the MTA stations so focus on stations within ½ mile (approximately a 10 minute walk) from the companies.  On the map below you can see this more limited set of stations.  To help in our analysis, the red dots were scaled so the stations with the higher volumes have larger dots.   
 ![an image alt text]({{ site.baseurl }}/images/image1.png "an image title")
-
-4.  This data helped to show us which stations on which to focus but we did some more analysis to provide a concise list of stations for you to focus on.  
+4.  This data helped to show us which stations should be the focus for WTWY but we did some more analysis to provide a concise list of stations.  
 
 We gave each station a score.   
 
@@ -103,7 +97,7 @@ This gave us a final list of 6 stations to target represented by red stars on th
 5.  47-50th Streets - Rockefeller
 6.  14th Street - Union Square
 
-The first station is obvious, Harold Square has a lot of volume and is surrounded by our target companies.  But Bryant Square is not so obvious.  It ranked third on our list even though it has only ⅓ the volume of Harold Square.  What makes this a good station to target is it has twice as many target companies within ½ mile as any other station.  This is in the middle of the tech companies you want to target.  Union Square is the most southern of our stations.  It has almost as big a volume as Harold Square but due to the lack of companies in the area it is the last station on our list.   
+The first station is obvious, Harold Square has a lot of volume and is surrounded by our target companies.  But Bryant Square is not so obvious.  It ranked third on our list even though it has only ⅓ the volume of Harold Square.  What makes this a good station to target is it has twice as many companies within ½ mile as any other station.  This is in the middle of the tech companies you want to target.  Union Square is the most southern of our stations.  It has almost as big a volume as Harold Square but due to the lack of companies in the area it is the last station on our list.   
 
 ### When Should You Target The Stations
 
