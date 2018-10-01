@@ -1,7 +1,7 @@
----
-layout: post
-title: Metis Benson MTA project
----
+--- 
+layout: post 
+title: Metis Benson MTA project 
+--- 
 
 ## Metis Bootcamp first project
 
