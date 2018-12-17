@@ -17,3 +17,11 @@ then led me to the page with their individual statistics.  From these indivudual
 personal records (PR) for each year.  If they had not competed for four years I then removed them from the dataset.
 
 In the end I had 
+
+
+|   | # girls | # boys | Total | # Schools |
+|-- |--       |--      |--     |--         |
+|400 meters  | 382 | 444  | 826 | 186 |
+|1600 meters | 852 | 1204 |2056 | 198 |
+
+
